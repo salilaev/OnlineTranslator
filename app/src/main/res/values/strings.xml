@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OnlineTranslator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="docs">Fayllar</string>
+    <string name="camera"> Kamera</string>
+    <string name="home">Uy</string>
+    <string name="history">Tariyx</string>
+    <string name="favourites">Saylanǵanlar</string>
+    <string name="select"> Tildi saylań</string>
+</resources>

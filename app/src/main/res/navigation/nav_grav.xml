@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/mainScreen">
+
+
+    <fragment
+        android:id="@+id/cameraScreen"
+        android:name="uz.uni_team.online_translator.presentation.main.pages.camera.CameraScreen"
+        android:label="CameraScreen" />
+    <fragment
+        android:id="@+id/mainScreen"
+        android:name="uz.uni_team.online_translator.presentation.main.MainScreen"
+        android:label="MainScreen" />
+    <fragment
+        android:id="@+id/docScreen"
+        android:name="uz.uni_team.online_translator.presentation.main.pages.docs.DocScreen"
+        android:label="DocScreen" />
+    <fragment
+        android:id="@+id/favouriteScreen"
+        android:name="uz.uni_team.online_translator.presentation.main.pages.favourites.FavouriteScreen"
+        android:label="FavouriteScreen" />
+    <fragment
+        android:id="@+id/historyScreen"
+        android:name="uz.uni_team.online_translator.presentation.main.pages.history.HistoryScreen"
+        android:label="HistoryScreen" />
+    <fragment
+        android:id="@+id/homeScreen"
+        android:name="uz.uni_team.online_translator.presentation.main.pages.home.HomeScreen"
+        android:label="HomeScreen" />
+</navigation>

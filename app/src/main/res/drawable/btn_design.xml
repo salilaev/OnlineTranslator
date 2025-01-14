@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Фоновый цвет кнопки -->
+    <solid android:color="#003366" />
+    <corners android:radius="70dp" />
+
+
+</shape>
