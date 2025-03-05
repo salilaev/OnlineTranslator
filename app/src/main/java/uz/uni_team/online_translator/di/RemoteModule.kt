@@ -74,3 +74,13 @@ object RemoteModule {
     fun provideLanguageService(@Named("language") languageRetrofit: Retrofit): LanguageService = languageRetrofit.create(LanguageService::class.java)
 
 }
+
+//TODO How to work with git
+//Git basics
+//Clone
+//commit
+//create merge/pull request
+//how to merge request
+//update branch
+//change branch
+//conflict
